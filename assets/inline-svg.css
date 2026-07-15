@@ -1,0 +1,17 @@
+.eub-inline-svg > .eub-inline-svg__graphic {
+  vertical-align: middle;
+}
+
+.eub-inline-svg__placeholder {
+  display: grid;
+  min-width: 8rem;
+  min-height: 5rem;
+  padding: 1rem;
+  place-items: center;
+  border: 1px dashed currentColor;
+  color: currentColor;
+  font: 12px/1.4 sans-serif;
+  text-align: center;
+  opacity: 0.65;
+}
+
